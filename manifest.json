@@ -1,0 +1,24 @@
+{
+  "name": "BrushUp",
+  "short_name": "BrushUp",
+  "description": "A mindful brushing companion for people who already brush, but want to do it right. Guided flossing, quadrant brushing, and a post-brush fluoride timer — all on your device.",
+  "start_url": "/brushup/",
+  "scope": "/brushup/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F8F7F4",
+  "theme_color": "#4A7FE8",
+  "icons": [
+    {
+      "src": "/brushup/favicon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/brushup/icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
